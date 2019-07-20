@@ -1,0 +1,98 @@
+body{
+	font-family: sans-serif;
+	background: #fff;
+}
+
+.formulir{
+    width: 400px;
+    background: white;
+    margin: 90px auto;
+    padding: 30px 20px;
+    background-color:#f2f2f2;
+}
+
+label{
+    font-size: 12pt;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=date] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=radio] {
+    padding: 12px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+input[type=checkbox] {
+    padding: 12px 20px;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+input[type=submit] {
+    width: 100%;
+    background-color: #2196F3;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  span, .islam{
+    border-radius: 20px;
+    background-color: #ffeb3b;
+    padding:0px 10px 0px 10px;
+  }
+  span, .kristen{
+    border-radius: 20px;
+    background-color:#ffc107;
+    padding:0px 10px 0px 10px;
+  }
+  span, .katolik{
+    border-radius: 20px;
+    background-color:#ff9800;
+    padding:0px 10px 0px 10px;
+  }
+  span, .renang{
+    border-radius: 20px;
+    background-color: #4CAF50;
+    padding:0px 10px 0px 10px;
+  }
+  span, .mancing{
+    border-radius: 20px;
+    background-color:#E91E63;
+    padding:0px 10px 0px 10px;
+  }
+  span, .game{
+    border-radius: 20px;
+    background-color:#9C27B0;
+    padding:0px 10px 0px 10px;
+  }
+  span, .gibah{
+    border-radius: 20px;
+    background-color:#2196F3;
+    padding:0px 10px 0px 10px;
+  }
+  span, .programing{
+    border-radius: 20px;
+    background-color:#FF5722;
+    padding:0px 10px 0px 10px;
+  }
+
